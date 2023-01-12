@@ -41,7 +41,7 @@ All our projects use MIT!
 Check out each project repository for the wiki.
 
 ## Donations
-https://github.com/sponsors/Crazy-Crew
+https://github.com/sponsors/Parchat
 
 ## Contributions
 Please check the individual README of every project for insight on this.
