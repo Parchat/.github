@@ -40,12 +40,13 @@ All our projects use MIT!
 ## Documentation
 Check out each project repository for the wiki.
 
-## Donations
-https://github.com/sponsors/Parchat
+<!--## Donations
+https://github.com/sponsors/Parchat-->
 
 ## Contributions
 Please check the individual README of every project for insight on this.
 
+<!--
 ## Special thanks to:
 <table>
   
@@ -84,3 +85,4 @@ Please check the individual README of every project for insight on this.
  </tr>
   
 </table>
+-->
